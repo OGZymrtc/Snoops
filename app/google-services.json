@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110236422005",
+    "firebase_url": "https://snoops-a1135.firebaseio.com",
+    "project_id": "snoops-a1135",
+    "storage_bucket": "snoops-a1135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110236422005:android:e80269fef13e67074b0d3c",
+        "android_client_info": {
+          "package_name": "com.ogzym.snoops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110236422005-f3f63441cus5vmef8gvopt5q4777jr83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ogzym.snoops",
+            "certificate_hash": "80f1666d9591b9d1b5f739bf83679dd7f8d8eb9d"
+          }
+        },
+        {
+          "client_id": "110236422005-b59togfc2f15dvfn2k38kl32r7md70p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuLSgTGQigGTUVyrxKvJ0zMwPEdU1sac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110236422005-b59togfc2f15dvfn2k38kl32r7md70p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
